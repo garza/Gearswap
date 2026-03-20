@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub="Thief's Knife",
+    ammo="Aurgelmir Orb",
+    head="Wh. Rarab Cap +1",
+    body="Mummu Jacket +2",
+    hands={ name="Plun. Armlets", augments={'Enhances "Perfect Dodge" effect',}},
+    legs="Mummu Kecks +2",
+    feet="Mummu Gamash. +2",
+    neck="Asperity Necklace",
+    waist="Shetal Stone",
+    left_ear="Cessance Earring",
+    right_ear="Brutal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Epaminondas's Ring",
+    back="Canny Cape",
+}

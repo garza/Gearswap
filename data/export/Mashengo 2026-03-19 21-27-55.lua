@@ -1,0 +1,17 @@
+sets.exported = {
+    main="Tizona",
+    sub="Naegling",
+    ammo="Aurgelmir Orb",
+    head="Luhlaza Keffiyeh +4",
+    body="Assim. Jubbah +4",
+    hands="Luh. Bazu. +4",
+    legs="Malignance Tights",
+    feet="Assim. Charuqs +4",
+    neck="Null Loop",
+    waist="Eschan Stone",
+    left_ear="Cessance Earring",
+    right_ear="Moonshade Earring",
+    left_ring="Epona's Ring",
+    right_ring="Murky Ring",
+    back={ name="Rosmerta's Cape", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

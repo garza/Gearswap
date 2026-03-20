@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub="Izhiikoh",
+    ammo="Aurgelmir Orb",
+    head="Mummu Bonnet +2",
+    body="Mummu Jacket +2",
+    hands="Mummu Wrists +2",
+    legs="Mummu Kecks +2",
+    feet="Mummu Gamash. +2",
+    neck="Asperity Necklace",
+    waist="Shetal Stone",
+    left_ear="Cessance Earring",
+    right_ear="Brutal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Epaminondas's Ring",
+    back="Canny Cape",
+}

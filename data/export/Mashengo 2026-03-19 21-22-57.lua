@@ -1,0 +1,17 @@
+sets.exported = {
+    main="Tizona",
+    sub="Naegling",
+    ammo="Mavi Tathlum",
+    head="Rawhide Mask",
+    body="Jhakri Robe +2",
+    hands={ name="Leyline Gloves", augments={'Accuracy+10','Mag. Acc.+7','"Fast Cast"+1',}},
+    legs="Malignance Tights",
+    feet="Jhakri Pigaches +2",
+    neck="Null Loop",
+    waist="Eschan Stone",
+    left_ear="Enchntr. Earring +1",
+    right_ear="Brutal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Murky Ring",
+    back={ name="Rosmerta's Cape", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}
